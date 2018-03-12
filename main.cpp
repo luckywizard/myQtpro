@@ -7,8 +7,8 @@ int main(int argc, char *argv[])
 
     using namespace std;
 
+    cout << "git push origin master"<<endl;
     cout << "hello world!" << endl;
-    cout << "o" << endl;
 
     return a.exec();
 }
